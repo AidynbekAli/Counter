@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Counter/static/css/main.41f9c8c6.css",
+    "main.js": "/Counter/static/js/main.ca1d9765.js",
+    "index.html": "/Counter/index.html",
+    "main.41f9c8c6.css.map": "/Counter/static/css/main.41f9c8c6.css.map",
+    "main.ca1d9765.js.map": "/Counter/static/js/main.ca1d9765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f9c8c6.css",
+    "static/js/main.ca1d9765.js"
+  ]
+}
